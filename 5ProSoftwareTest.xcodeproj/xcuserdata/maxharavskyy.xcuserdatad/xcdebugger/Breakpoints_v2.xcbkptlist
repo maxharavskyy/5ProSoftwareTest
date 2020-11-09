@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9D1F8C19-5431-46F9-B4BC-6AFE962BE84C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "473282EB-FCF0-465C-8DB3-5276A5C5B22B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "5ProSoftwareTest/Controllers/DetailController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fetchDetailData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "473282EB-FCF0-465C-8DB3-5276A5C5B22B - 4b0f6edc8ee4f07d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_ProSoftwareTest.DetailController.fetchData() -&gt; ()"
+                  moduleName = "5ProSoftwareTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxharavskyy/Desktop/My%20Projects/5ProSoftwareTest/5ProSoftwareTest/Controllers/DetailController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "473282EB-FCF0-465C-8DB3-5276A5C5B22B - 1442f0c558035a50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in _ProSoftwareTest.DetailController.fetchData() -&gt; ()"
+                  moduleName = "5ProSoftwareTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxharavskyy/Desktop/My%20Projects/5ProSoftwareTest/5ProSoftwareTest/Controllers/DetailController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "127">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED8994F6-BF09-465B-B1CF-2E80354F63F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "5ProSoftwareTest/Controllers/DetailController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchDetailData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ED8994F6-BF09-465B-B1CF-2E80354F63F4 - 1442f0c558035aaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in _ProSoftwareTest.DetailController.fetchData() -&gt; ()"
+                  moduleName = "5ProSoftwareTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxharavskyy/Desktop/My%20Projects/5ProSoftwareTest/5ProSoftwareTest/Controllers/DetailController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "ED8994F6-BF09-465B-B1CF-2E80354F63F4 - 8cdfc57834fb17df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; () in _ProSoftwareTest.DetailController.fetchData() -&gt; ()"
+                  moduleName = "5ProSoftwareTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxharavskyy/Desktop/My%20Projects/5ProSoftwareTest/5ProSoftwareTest/Controllers/DetailController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
